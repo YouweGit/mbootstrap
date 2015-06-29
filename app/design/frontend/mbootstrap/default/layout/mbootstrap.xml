@@ -52,7 +52,7 @@
 
                 <!-- Google Web Fonts -->
                 <block type="core/text" name="google.webfonts">
-                    <action method="setText"><text><![CDATA[<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=latin,latin-ext,cyrillic' rel='stylesheet' type='text/css'>]]></text></action>
+                    <action method="setText"><text><![CDATA[<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=latin,latin-ext,cyrillic' rel='stylesheet' type='text/css'>]]></text></action>
                 </block>
 
             </reference>
